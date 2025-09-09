@@ -1,4 +1,4 @@
-# # CS4680_A1
+# CS4680_A1
 
 ## Overview
 
